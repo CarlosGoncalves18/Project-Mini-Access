@@ -1,0 +1,32 @@
+c:\users\carlo\onedrive\documentos\visual studio 2015\Projects\MiniAccess_Project\MiniAccess_Project\bin\Debug\MiniAccess_Project.exe.config
+c:\users\carlo\onedrive\documentos\visual studio 2015\Projects\MiniAccess_Project\MiniAccess_Project\bin\Debug\MiniAccess_Project.exe
+c:\users\carlo\onedrive\documentos\visual studio 2015\Projects\MiniAccess_Project\MiniAccess_Project\bin\Debug\MiniAccess_Project.pdb
+c:\users\carlo\onedrive\documentos\visual studio 2015\Projects\MiniAccess_Project\MiniAccess_Project\bin\Debug\MetroFramework.dll
+c:\users\carlo\onedrive\documentos\visual studio 2015\Projects\MiniAccess_Project\MiniAccess_Project\obj\Debug\MiniAccess_Project.csprojResolveAssemblyReference.cache
+c:\users\carlo\onedrive\documentos\visual studio 2015\Projects\MiniAccess_Project\MiniAccess_Project\obj\Debug\MiniAccess_Project.Properties.Resources.resources
+c:\users\carlo\onedrive\documentos\visual studio 2015\Projects\MiniAccess_Project\MiniAccess_Project\obj\Debug\MiniAccess_Project.csproj.GenerateResource.Cache
+c:\users\carlo\onedrive\documentos\visual studio 2015\Projects\MiniAccess_Project\MiniAccess_Project\obj\Debug\MiniAccess_Project.exe
+c:\users\carlo\onedrive\documentos\visual studio 2015\Projects\MiniAccess_Project\MiniAccess_Project\obj\Debug\MiniAccess_Project.pdb
+c:\users\carlo\onedrive\documentos\visual studio 2015\Projects\MiniAccess_Project\MiniAccess_Project\bin\Debug\MetroFramework.Design.dll
+c:\users\carlo\onedrive\documentos\visual studio 2015\Projects\MiniAccess_Project\MiniAccess_Project\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\carlo\OneDrive\Documentos\Visual Studio 2015\Projects\MiniAccess_Project\MiniAccess_Project\obj\Debug\Interop.DAO.dll
+C:\Users\carlo\OneDrive\Documentos\Visual Studio 2015\Projects\MiniAccess_Project\MiniAccess_Project\obj\Debug\MiniAccess_Project.csproj.ResolveComReference.cache
+C:\Users\carlo\OneDrive\Documentos\Visual Studio 2015\Projects\MiniAccess_Project\MiniAccess_Project\bin\Debug\Interop.DAO.dll
+C:\Users\carlo\OneDrive\Documentos\Visual Studio 2015\Projects\MiniAccess_Project\MiniAccess_Project\obj\Debug\MiniAccess_Project.GUI.MiniAccessForm.resources
+C:\Users\carlo\OneDrive\Documentos\Programming\C#\MiniAccess_Project\MiniAccess_Project\bin\Debug\MiniAccess_Project.exe.config
+C:\Users\carlo\OneDrive\Documentos\Programming\C#\MiniAccess_Project\MiniAccess_Project\bin\Debug\MiniAccess_Project.exe
+C:\Users\carlo\OneDrive\Documentos\Programming\C#\MiniAccess_Project\MiniAccess_Project\bin\Debug\MiniAccess_Project.pdb
+C:\Users\carlo\OneDrive\Documentos\Programming\C#\MiniAccess_Project\MiniAccess_Project\bin\Debug\MetroFramework.Design.dll
+C:\Users\carlo\OneDrive\Documentos\Programming\C#\MiniAccess_Project\MiniAccess_Project\bin\Debug\MetroFramework.dll
+C:\Users\carlo\OneDrive\Documentos\Programming\C#\MiniAccess_Project\MiniAccess_Project\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\carlo\OneDrive\Documentos\Programming\C#\MiniAccess_Project\MiniAccess_Project\bin\Debug\Interop.DAO.dll
+C:\Users\carlo\OneDrive\Documentos\Programming\C#\MiniAccess_Project\MiniAccess_Project\obj\Debug\MiniAccess_Project.csprojAssemblyReference.cache
+C:\Users\carlo\OneDrive\Documentos\Programming\C#\MiniAccess_Project\MiniAccess_Project\obj\Debug\Interop.DAO.dll
+C:\Users\carlo\OneDrive\Documentos\Programming\C#\MiniAccess_Project\MiniAccess_Project\obj\Debug\MiniAccess_Project.csproj.ResolveComReference.cache
+C:\Users\carlo\OneDrive\Documentos\Programming\C#\MiniAccess_Project\MiniAccess_Project\obj\Debug\MiniAccess_Project.GUI.MiniAccessForm.resources
+C:\Users\carlo\OneDrive\Documentos\Programming\C#\MiniAccess_Project\MiniAccess_Project\obj\Debug\MiniAccess_Project.Properties.Resources.resources
+C:\Users\carlo\OneDrive\Documentos\Programming\C#\MiniAccess_Project\MiniAccess_Project\obj\Debug\MiniAccess_Project.csproj.GenerateResource.cache
+C:\Users\carlo\OneDrive\Documentos\Programming\C#\MiniAccess_Project\MiniAccess_Project\obj\Debug\MiniAccess_Project.csproj.CoreCompileInputs.cache
+C:\Users\carlo\OneDrive\Documentos\Programming\C#\MiniAccess_Project\MiniAccess_Project\obj\Debug\MiniAccess_Project.csproj.CopyComplete
+C:\Users\carlo\OneDrive\Documentos\Programming\C#\MiniAccess_Project\MiniAccess_Project\obj\Debug\MiniAccess_Project.exe
+C:\Users\carlo\OneDrive\Documentos\Programming\C#\MiniAccess_Project\MiniAccess_Project\obj\Debug\MiniAccess_Project.pdb
